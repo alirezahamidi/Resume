@@ -1,4 +1,5 @@
 # Alireza Hamidi
+![Profile Picture](./files/prof.png)
 ### Programmer and Web Developer
 
 I have over 4 Years experience working in Frontend Teams.
