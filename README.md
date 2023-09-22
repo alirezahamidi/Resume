@@ -62,10 +62,17 @@ Key Responsibilities : Participate in 4 Projects that made for Doctor Appointmen
 -------------
 
 Frontend Developer
-Yektapars Kish - Tehran,Iran (In-Site)
-Nov 2022 - Now
+Yektapars Vista - Tehran,Iran (In-Site)
+Nov 2022 - Sep 2023
 Key Responsibilities : Design Webpages, Maintain Prebuilt Projects and Change views to Make Designed UI/UX Figma designs.
 (Dotnet Core 6, Razor, SqlServer, Pure HTML/CSS, Vanila Js)
 
 -------------
 
+Senior Frontend Developer
+Inpress - Belgium (Remote from Tehran,Iran)
+Sep 2023 - Present
+Key Responsibilities : Design scalable angular pages and components.
+(Angular, RxJs, Ngrx)
+
+-------------
