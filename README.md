@@ -2,7 +2,7 @@
 ![Profile Picture](./files/prof.png)
 ### Programmer and Web Developer
 
-I have over 4 Years experience working in Frontend Teams.
+I have over 5 Years experience working in Frontend Teams.
 Currently, I work on my personal and community projects and looking for a job to make more experince for me and I enjoy working in team, teach new technologies and gain more experience.
 I'm hard working person and deliver projects before dead lines make me so proded of my self.
 Please Visit My [GitHub](https://github.com/alirezahamidi) to see My Open Projects.
@@ -144,10 +144,10 @@ Hope you enjoyed my experinces and i know we have more to discuss.
 
 Hope to hear from you and feel free to contact me for any subject.
 
-[alirezahamidi.dev@gmail.com](mail://alirezahamidi.dev@gmail.com) <<  My Email
+[alirezahamidi.dev@gmail.com](mailto:alirezahamidi.dev@gmail.com) <<  My Email
 
-[+98 935 083 29 05](tel://+989350832905) <<  My Phone number on Whatsapp Or Telegram
+[+98 935 083 29 05](tel:+989350832905) <<  My Phone number on Whatsapp Or Telegram
 
-# Thanks for your Time!
+## Thanks for your Time!
 
 Alireza Hamidi
